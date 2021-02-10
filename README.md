@@ -1,4 +1,4 @@
-# -Group-4
+# Group-4 Tim Hortons Database
 Mission Statement:
 The purpose of this Tim Hortons database is to provide employees with the information needed to meet the daily food and beverage needs of their local communities.
 
