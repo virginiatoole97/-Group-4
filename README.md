@@ -1,14 +1,9 @@
 # Group-4 Tim Hortons Database
 Mission Statement:
 The purpose of this Tim Hortons database is to provide employees with the information needed to meet the daily food and beverage needs of their local communities.
-
-Objectives:
-Maintain inventory of ingredients.
-
-Maintain list of recipes.
-
-Assign food preparation tasks to staff.
-
-Track number of orders.
-
-Evaluate staff performance.
+Objective 1	Maintain inventory of ingredients.	
+Objective2 	Maintain list of recipes.	
+Objective 3	Assign food preparation tasks to staff.	
+Objective 4	Track customer orders.	
+Objective 5	Maintain staff check-in and check-out times	
+Objective 6	Maintain list of menu items	
