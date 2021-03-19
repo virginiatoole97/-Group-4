@@ -10,6 +10,6 @@ Objective 3	Assign food preparation tasks to staff.
 
 Objective 4	Track customer orders.	
 
-Objective 5	Maintain staff check-in and check-out times.
+Objective 5	Maintain staff check-in and check-out times in Time Hortons stores.
 
 Objective 6	Maintain list of menu items.
